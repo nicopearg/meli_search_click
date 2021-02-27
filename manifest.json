@@ -1,0 +1,6 @@
+{
+    "name": "Buscar en Mercado Libre",
+    "version": "1.0",
+    "description": "Habilita la funcion de buscar en Mercado Libre con click derecho",
+    "manifest_version": 2
+  }
